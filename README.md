@@ -1,1 +1,2 @@
-partner 1 is here ( Chiamaka Okoye)
+0x16. C - Simple Shell
+Joint project between chiamaka and Kelechukwu
